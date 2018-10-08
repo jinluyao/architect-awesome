@@ -1042,6 +1042,8 @@ APM —  Application Performance Management
 ## 缓存
 
 * [《缓存失效策略（FIFO 、LRU、LFU三种算法的区别）》](https://blog.csdn.net/clementad/article/details/48229243)
+* [Java实现](https://blog.csdn.net/f59130/article/details/80955366)
+* [代码实现](https://my.oschina.net/javahongxi/blog/1523987)
 
 ### 本地缓存
 
