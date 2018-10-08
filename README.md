@@ -804,7 +804,7 @@ TODO
 * [《Spring AOP 实现原理与 CGLIB 应用》](https://www.ibm.com/developerworks/cn/java/j-lo-springaopcglib/)
 	* Spring AOP 框架对 AOP 代理类的处理原则是：如果目标对象的实现类实现了接口，Spring AOP 将会采用 JDK 动态代理来生成 AOP 代理类；如果目标对象的实现类没有实现接口，Spring AOP 将会采用 CGLIB 来生成 AOP 代理类 
 
-### JVM虚拟机深入学习
+## JVM虚拟机深入学习
 * [极客时间课程文章](https://time.geekbang.org/column/108)
 
 ## UML
