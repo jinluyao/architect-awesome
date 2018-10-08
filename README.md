@@ -2447,17 +2447,20 @@ TODO
 * [DigitalOcean](https://www.digitalocean.com)
 * [Vultr](https://www.vultr.com/)
 
+# 补充内容：
 
-# BAT面试问题合集（5套）
+## BAT面试问题合集（5套）
 
-# 项目经验完善和详细化
+## 项目经验完善和详细化
 
-# 优质公众号历史技术文章（如：秒杀系统等）
+## 优质公众号历史技术文章（如：秒杀系统等）
 
-# 有道笔记总结回顾
+## 有道笔记总结回顾
 
-# 《阿里规范手册》
+## 《阿里规范手册》
+* [手册地址](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E8%AF%A6%E5%B0%BD%E7%89%88%EF%BC%89.pdf)
 
-# 算法刷题+回顾
+## 算法刷题+回顾
+* [极客时间算法数据结构课程](https://time.geekbang.org/column/126)
 
 ……其他待补充
