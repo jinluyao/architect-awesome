@@ -2452,10 +2452,14 @@ TODO
 # 补充内容：
 
 ## BAT面试问题合集（5套）
+https://mp.weixin.qq.com/s/ZadrNJj5nqGMJgHds28NQw
+https://mp.weixin.qq.com/s/jW13yMWCSNPnFSoSy7bqcA
 
 ## 项目经验完善和详细化
 
 ## 优质公众号历史技术文章（如：秒杀系统等）
+https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg
+https://mp.weixin.qq.com/s/oFQHrCZvItgc8McrZSaovw
 
 ## 有道笔记总结回顾
 
