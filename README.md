@@ -2460,6 +2460,9 @@ https://mp.weixin.qq.com/s/jW13yMWCSNPnFSoSy7bqcA
 ## 优质公众号历史技术文章（如：秒杀系统等）
 https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg
 https://mp.weixin.qq.com/s/oFQHrCZvItgc8McrZSaovw
+https://mp.weixin.qq.com/s/CIPosICgva9haqstMDIHag
+https://mp.weixin.qq.com/s/4J3oM1j5hcLq4w4TdSEMPg
+http://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTE1ODkyNQ==&hid=1&sn=9aaafd8349b88fd4f84de73d3831c1e0&scene=18#wechat_redirect
 
 ## 有道笔记总结回顾
 
