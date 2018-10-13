@@ -1048,7 +1048,7 @@ APM —  Application Performance Management
 * [Java实现](https://blog.csdn.net/f59130/article/details/80955366)
 * [代码实现](https://my.oschina.net/javahongxi/blog/1523987)
 
-[ThreadLocal](https://mp.weixin.qq.com/s/ZZgaK2TKDeARqi5HKhQcGg)
+* [ThreadLocal](https://mp.weixin.qq.com/s/ZZgaK2TKDeARqi5HKhQcGg)
 
 ### 本地缓存
 
@@ -2463,12 +2463,12 @@ https://mp.weixin.qq.com/s/jW13yMWCSNPnFSoSy7bqcA
 ## 项目经验细节完善和深入
 
 ## 优质公众号历史技术文章（如：秒杀系统等）
-[文章1](https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg)
-[文章2](https://mp.weixin.qq.com/s/oFQHrCZvItgc8McrZSaovw)
-[文章3](https://mp.weixin.qq.com/s/CIPosICgva9haqstMDIHag)
-[文章4](https://mp.weixin.qq.com/s/4J3oM1j5hcLq4w4TdSEMPg)
-[文章5](http://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTE1ODkyNQ==&hid=1&sn=9aaafd8349b88fd4f84de73d3831c1e0&scene=18#wechat_redirect)
-[文章6](https://mp.weixin.qq.com/s/omtkduEIZxVIIgkdTlzzSQ)
+* [文章1](https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg)
+* [文章2](https://mp.weixin.qq.com/s/oFQHrCZvItgc8McrZSaovw)
+* [文章3](https://mp.weixin.qq.com/s/CIPosICgva9haqstMDIHag)
+* [文章4](https://mp.weixin.qq.com/s/4J3oM1j5hcLq4w4TdSEMPg)
+* [文章5](http://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTE1ODkyNQ==&hid=1&sn=9aaafd8349b88fd4f84de73d3831c1e0&scene=18#wechat_redirect)
+* [文章6](https://mp.weixin.qq.com/s/omtkduEIZxVIIgkdTlzzSQ)
 
 ## 有道笔记总结回顾
 
