@@ -2460,6 +2460,44 @@ TODO
 https://mp.weixin.qq.com/s/ZadrNJj5nqGMJgHds28NQw
 https://mp.weixin.qq.com/s/jW13yMWCSNPnFSoSy7bqcA
 
+一面：
+算法题： merge k sorted list，时间复杂度如何？
+
+HashMap 如果一直put元素会怎么样？hashcode全都相同如何？equals方法都相同如何？ApplicationContext的初始化过程？初始化过程中发现循环依赖Spring 是如何处理的？
+GC 用什么收集器？收集的过程如何？哪些部分可以作为GC Root? 
+Volatile 关键字，指令重排序有什么意义？synchronied 怎么用？
+并发包里的原子类有哪些，怎么实现？cas在CPU级别用什么指令实现的？
+Redis数据结构有哪些？如何实现sorted set？这种数据结构在极端情况下可能有什么问题？二叉平衡树？
+
+系统设计题：一个推送场景，50条内容，定时推送，先推5%用户，一段时间后再找出效果最好的几条，推给所有用户。设计相关库表，系统模块, 需要可以落地，有伪代码
+
+MySql索引是什么数据结构？B tree有什么特点？优点是什么？
+
+慢查询怎么优化？
+
+项目：cache ，各部分职责，有哪些优化点
+
+二面：
+有哪些挑战最大的时候？
+JDK 1.8 ConcurrentHashMap做过什么改进？HashMap死锁？
+
+标记的时候怎么找出栈上的 GC Root？说出一种可能的方案，存在什么问题？
+字节码有了解过吗？
+本地缓存怎么优化空间？（提出 BitMap）BitMap可行吗？怎么验证可行性？如果不可行，怎么证伪？
+
+其他语言有了解过吗？Scala的集合有什么特性？python有什么高级特性？
+
+怎么学习新技术？哪些是基础技术？
+
+在部门中是什么角色定位？
+
+JDK 1.7比前一个版本有哪些改进？ 
+
+ParNew收集过程，如何调优ParNew？如何减少 full gc？调大YoungGen有什么好处坏处？
+
+GC、linux网络模型、b+树、阻塞对接、redis和cb的区别、几个概念对比，还有底层实现，musical后端的一些面试题
+
+
 ## 项目经验细节完善和深入
 
 ## 优质公众号历史技术文章（如：秒杀系统等）
