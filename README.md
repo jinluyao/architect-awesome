@@ -405,6 +405,7 @@
 * [《最容易懂得红黑树》](https://blog.csdn.net/sun_tttt/article/details/65445754)
 	* 添加阶段后，左旋或者右旋从而再次达到平衡。 
 * [《浅谈算法和数据结构: 九 平衡查找树之红黑树》](http://www.cnblogs.com/yangecnu/p/Introduce-Red-Black-Tree.html)
+* [红黑树](https://juejin.im/entry/58371f13a22b9d006882902d)
 
 ### B-，B+，B*树
 MySQL是基于B+树聚集索引组织表
