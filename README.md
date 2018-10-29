@@ -2508,6 +2508,7 @@ GC、linux网络模型、b+树、阻塞对接、redis和cb的区别、几个概�
 * [文章4](https://mp.weixin.qq.com/s/4J3oM1j5hcLq4w4TdSEMPg)
 * [文章5](http://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTE1ODkyNQ==&hid=1&sn=9aaafd8349b88fd4f84de73d3831c1e0&scene=18#wechat_redirect)
 * [文章6](https://mp.weixin.qq.com/s/omtkduEIZxVIIgkdTlzzSQ)
+* [文章7](https://mp.weixin.qq.com/s/ltApsx-LCFKQXRHNBhcIqg)
 
 ## 有道笔记总结回顾
 
