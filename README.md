@@ -2503,7 +2503,7 @@ GC、linux网络模型、b+树、阻塞对接、redis和cb的区别、几个概�
 
 ## 项目经验细节完善和深入
 
-## 优质公众号历史技术文章（如：秒杀系统等）
+## 优质公众号技术文章（如：秒杀系统等）
 * [文章1](https://mp.weixin.qq.com/s/4kTtn_gLYQrX7JFlEJdsZg)
 * [文章2](https://mp.weixin.qq.com/s/oFQHrCZvItgc8McrZSaovw)
 * [文章3](https://mp.weixin.qq.com/s/CIPosICgva9haqstMDIHag)
@@ -2511,6 +2511,13 @@ GC、linux网络模型、b+树、阻塞对接、redis和cb的区别、几个概�
 * [文章5](http://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTE1ODkyNQ==&hid=1&sn=9aaafd8349b88fd4f84de73d3831c1e0&scene=18#wechat_redirect)
 * [文章6](https://mp.weixin.qq.com/s/omtkduEIZxVIIgkdTlzzSQ)
 * [文章7](https://mp.weixin.qq.com/s/ltApsx-LCFKQXRHNBhcIqg)
+* [socket文章](https://www.cnblogs.com/yiwangzhibujian/p/7107785.html)
+* [Mybatis原理](https://www.jianshu.com/p/ec40a82cae28)
+* [面经](https://mp.weixin.qq.com/s/ltApsx-LCFKQXRHNBhcIqg)
+* [RPC](https://www.jianshu.com/p/b0343bfd216e)
+* [红黑树](https://juejin.im/entry/58371f13a22b9d006882902d)
+* [架构](https://coderxing.gitbooks.io/architecture-evolution/)
+* [推荐书单](https://mp.weixin.qq.com/s/RtvW_TxVbZRTQTwMk5Casg)
 
 ## 有道笔记总结回顾
 
