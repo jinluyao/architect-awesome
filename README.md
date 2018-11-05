@@ -1838,6 +1838,8 @@ TODO
 * [《常见Java应用如何优雅关闭》](http://ju.outofmemory.cn/entry/337235)
 Java、Spring、Dubbo 优雅关闭方式。
 
+# [Java优雅的关闭](https://mp.weixin.qq.com/s/UajcsxcW40qvgz_hqBEscA)
+
 ## 数据库扩展
 
 ### 读写分离模式
