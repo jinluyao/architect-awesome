@@ -152,6 +152,7 @@
 		* [分布式定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式定时调度)
 	* [RPC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rpc)
 		* [Dubbo](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#dubbo)
+		* [Dubbo官方文档](http://dubbo.apache.org/zh-cn/index.html)
 		* [Thrift](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#thrift)
 		* [gRPC](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#grpc)
 	* [数据库中间件](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据库中间件)
