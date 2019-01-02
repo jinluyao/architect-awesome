@@ -2524,6 +2524,7 @@ GC、linux网络模型、b+树、阻塞对接、redis和cb的区别、几个概�
 * [面经](https://mp.weixin.qq.com/s/pcy-JHi8R9aUJx0SU0B9wQ)
 * [JVM题](https://mp.weixin.qq.com/s/tfBvdon8bz0MIE0NHUkcjA)
 * [ES原理](https://mp.weixin.qq.com/s/5cY2XFcyTCBBH8RtsM18dA)
+* [二分查找](https://www.zhihu.com/question/36132386)
 
 ## 有道笔记总结回顾
 
