@@ -184,6 +184,7 @@
 	* [MySQL](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#mysql)
 		* [原理](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#原理)
 		* [InnoDB](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#innodb)
+		* [Mysql介绍](https://draveness.me/mysql-innodb)
 		* [优化](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#优化)
 		* [索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#索引)
 			* [聚集索引, 非聚集索引](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#聚集索引-非聚集索引)
