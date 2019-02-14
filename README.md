@@ -1888,6 +1888,9 @@ Java、Spring、Dubbo 优雅关闭方式。
 	* 本地路由有限策略：injvm(优先调用jvm内部的服务)，innative(优先使用相同物理机的服务),原则上找距离最近的服务。
 	* 配置方式：统一注册表；本地配置；动态下发。
 
+### 分布式知识架构体系
+* [分布式知识架构体系](https://mp.weixin.qq.com/s/Di0wshxPpug13YvCcxEr5w)
+
 ## 分布式一致
 
 ### CAP 与 BASE 理论
@@ -1899,6 +1902,7 @@ Java、Spring、Dubbo 优雅关闭方式。
 	* BASE理论的核心思想是：即使无法做到强一致性，但每个应用都可以根据自身业务特点，采用适当的方式来使系统达到最终一致性。
 
 ### 分布式锁
+* [Redis为什么那么快](https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA)
 
 * [《分布式锁的几种实现方式》](http://www.hollischuang.com/archives/1716)
 	* 基于数据库的分布式锁：优点：操作简单、容易理解。缺点：存在单点问题、数据库性能够开销较大、不可重入；
