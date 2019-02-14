@@ -253,6 +253,7 @@
 	* [网络框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#网络框架)
 	* [Web 框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#web-框架)
 		* [Spring 家族](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#spring-家族)
+		* 《Spring 源码解析内幕》
 	* [工具框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#工具框架)
 * [分布式设计](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式设计)
 	* [扩展性设计](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#扩展性设计)
