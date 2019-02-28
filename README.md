@@ -2542,4 +2542,33 @@ GC、linux网络模型、b+树、阻塞对接、redis和cb的区别、几个概�
 * [各类树结构](https://www.cnblogs.com/huangxincheng/category/397768.html)
 * [经典算法题](https://www.cnblogs.com/huangxincheng/category/401959.html)
 
+https://mp.weixin.qq.com/s/MuTHlpe5rBI_3tXsXKDcSg
+https://mp.weixin.qq.com/s/yqks3Q41sJBIkVuNOZxnWQ
+https://mp.weixin.qq.com/s/c0S1UWvTeVcT50tEJZ6ZOw
+http://note.youdao.com/noteshare?id=b611546ff1c25642a932115a7c7cc695&sub=55E9EFD0C7CB402E8A0836832B777659
+https://mp.weixin.qq.com/s/Di0wshxPpug13YvCcxEr5w
+https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA
+
+1. Volatile、CAS、AQS，之前背过，回答的时候很浅
+
+2.线程池实现原理
+
+3.RPC
+
+4.zookeeper
+
+5.分布式
+
+6.你印象中项目最难的一个技术点是什么
+
+7.分布式事务的一致性
+
+8.你知道用Redis怎么实现一致性锁吗。。。setnx内部原理是？
+
+9.Redis中缓存超过容量时有什么策略？
+
+10.LRU是什么？
+
+
+
 ……其他待补充
