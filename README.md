@@ -1261,6 +1261,7 @@ TODO
 	* 支持多种语言 
 
 * [《基于zookeeper实现统一配置管理》](https://blog.csdn.net/u011320740/article/details/78742625)
+* [Zookeeper原理](https://mp.weixin.qq.com/s/-O6Z8npAXwaJV2MMzmOBMQ)
 
 * [《 Spring Cloud Config 分布式配置中心使用教程》](https://www.cnblogs.com/shamo89/p/8016908.html)
 
