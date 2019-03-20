@@ -2571,6 +2571,13 @@ https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA
 
 10.LRU是什么？
 
+## 补充
+1. https 知识点 ：https://mp.weixin.qq.com/s/3y_GGvZHk7AqrVWDiFZA8w
+2. 全链路：https://juejin.im/post/5a7a9e0af265da4e914b46f1
+3. Kafka： https://mp.weixin.qq.com/s/7j2SeicNb5CeewPMDglv0g
+4. 面经：https://zhuanlan.zhihu.com/p/57062052?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
+5. 面经2：https://www.zhihu.com/question/60949531/answer/579002882?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
+6. 面经3：https://www.zhihu.com/question/60949531/answer/184044541?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
 
 
 ## 临时突击——量变产生质变
