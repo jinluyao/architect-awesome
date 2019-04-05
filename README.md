@@ -274,6 +274,7 @@
 	* [分布式一致](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致)
 		* [CAP 与 BASE 理论](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#cap-与-base-理论)
 		* [分布式锁](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式锁)
+		* [分布式锁2] https://mp.weixin.qq.com/s/8LAneVEkD6l2azo47SwwBA
 		* [分布式一致性算法](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致性算法)
 			* [PAXOS](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#paxos)
 			* [Zab](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zab)
@@ -2553,7 +2554,7 @@ https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA
 
 1. Volatile、CAS、AQS，之前背过，回答的时候很浅
 
-2.线程池实现原理
+2.线程池实现原理 【https://mp.weixin.qq.com/s/FVfuwIQ08mRrQy_PAd6WLw】
 
 3.RPC
 
@@ -2563,7 +2564,7 @@ https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA
 
 6.你印象中项目最难的一个技术点是什么
 
-7.分布式事务的一致性
+7.分布式事务的一致性【https://mp.weixin.qq.com/s/A0WwkX0SaCVVvyLIeYlvgQ】
 
 8.你知道用Redis怎么实现一致性锁吗。。。setnx内部原理是？
 
@@ -2573,12 +2574,12 @@ https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA
 
 ## 补充
 1. https 知识点 ：https://mp.weixin.qq.com/s/3y_GGvZHk7AqrVWDiFZA8w
-2. 全链路：https://juejin.im/post/5a7a9e0af265da4e914b46f1
+2. 全链路：https://juejin.im/post/5a7a9e0af265da4e914b46f1 ；https://mp.weixin.qq.com/s/4q6OMRDt-NmYvScSxNj-YQ；https://mp.weixin.qq.com/s/uB3eI2m4L6E1QEebgPrAYQ；https://mp.weixin.qq.com/s/cfrjmrW_K3UjJnVdOjUgLw
 3. Kafka： https://mp.weixin.qq.com/s/7j2SeicNb5CeewPMDglv0g
 4. 面经：https://zhuanlan.zhihu.com/p/57062052?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
 5. 面经2：https://www.zhihu.com/question/60949531/answer/579002882?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
 6. 面经3：https://www.zhihu.com/question/60949531/answer/184044541?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
-
+7. 分布式：https://mp.weixin.qq.com/s/cfrjmrW_K3UjJnVdOjUgLw
 
 ## 临时突击——量变产生质变
 1. 如何精通： https://www.zhihu.com/question/28903757/answer/575333243?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
@@ -2586,7 +2587,7 @@ https://mp.weixin.qq.com/s/3JiybQWyNwQC5tEi45oSYA
 3. 面经 ： https://mp.weixin.qq.com/s/xb1qHk-_9UdSzQSEc5y32A
 4. 突击 ： https://mp.weixin.qq.com/s/mCzhQ_r4yz9g-MEH7mau9Q
 5. 算法30道经典题目如下：http://note.youdao.com/noteshare?id=5bdc8113cdcf4b0c31709ba620bd3622
-
+6. 面经：https://zhuanlan.zhihu.com/p/58026665?utm_source=wechat_session&utm_medium=social&utm_oi=71244774899712
 
 
 ……其他待补充
